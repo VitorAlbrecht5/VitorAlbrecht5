@@ -10,4 +10,4 @@ Meu objetivo é continuar aprendendo e evoluindo na área de tecnologia. Quero u
 
 ## Minha Jornada
 
-Atualmente estou desenvolvendo minha base  na programação, aprendendo sobre lógica de programação, git e conceitos básicos da área
+Atualmente estou desenvolvendo minha base na programação, aprendendo sobre lógica de programação, git e conceitos básicos da área.
