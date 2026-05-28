@@ -4,11 +4,15 @@ Sou estudante do curso Programador Full Stack no SENAI e tenho interesse em tecn
 
 Estou buscando evoluir na área, aprender na prática e encontrar uma oportunidade para crescer profissionalmente.
 
+---
+
 ## Sobre mim
 
 Gosto de aprender coisas novas, resolver problemas e entender como a tecnologia pode facilitar a vida das pessoas.
 
 Quero usar o que aprendo para criar soluções úteis e de alguma forma, ajudar a fazer a diferença.
+
+---
 
 ## Contato
 
