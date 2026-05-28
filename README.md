@@ -6,7 +6,9 @@ Estou buscando evoluir na área, aprender na prática e encontrar uma oportunida
 
 ## Sobre mim
 
-Gosto de aprender coisas novas, resolver problemas e transformar conhecimento em algo útil para outras pessoas.
+Gosto de aprender coisas novas, resolver problemas e entender como a tecnologia pode facilitar a vida das pessoas.
+
+Quero usar o que aprendo para criar soluções úteis e, de alguma forma, fazer a diferença.
 
 ## Contato
 
