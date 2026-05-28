@@ -1,13 +1,14 @@
-## Olá, eu sou o Vitor
+# Olá, eu sou o Vitor 👋
 
-Sou estudante do curso Programador Full Stack no SENAI
+Sou estudante do curso Programador Full Stack no SENAI, com interesse em tecnologia e desenvolvimento de software.
 
-Tenho interesse em tecnologia, gosto de aprender coisas novas e estou construindo minha base na programação.
+Estou buscando evoluir na área, aprender na prática e encontrar uma oportunidade para crescer profissionalmente.
 
-## 📌 Meu Objetivo
+## Sobre mim
 
-Meu objetivo é continuar aprendendo e evoluindo na área de tecnologia. Quero usar o que estou aprendendo para criar soluções úteis que ajudem as pessoas de alguma forma.
+Gosto de aprender coisas novas, resolver problemas e transformar conhecimento em algo útil para outras pessoas.
 
-## 📖 Minha Jornada
+## Contato
 
-Atualmente estou desenvolvendo minha base na programação, aprendendo sobre lógica de programação, git e conceitos básicos da área.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
