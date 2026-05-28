@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor 👋
 
-Sou estudante do curso Programador Full Stack no SENAI, com interesse em tecnologia e desenvolvimento de software.
+Sou estudante do curso Programador Full Stack no SENAI e tenho interesse em tecnologia e desenvolvimento de software.
 
 Estou buscando evoluir na área, aprender na prática e encontrar uma oportunidade para crescer profissionalmente.
 
