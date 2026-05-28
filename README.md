@@ -1,4 +1,4 @@
-# Olá, eu sou o Vitor 👋
+# Olá, eu sou o Vitor
 
 Sou estudante do curso Programador Full Stack no SENAI e tenho interesse em tecnologia e desenvolvimento de software.
 
